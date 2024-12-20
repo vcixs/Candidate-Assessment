@@ -21,7 +21,7 @@ cd Candidate-Assessment
 Using `virtualenv`:
 ```bash
 python -m venv env
-source env/bin/activate   
+env/bin/activate   
 ```
 
 Using `conda`:
