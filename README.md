@@ -13,8 +13,8 @@ Ensure you have the following installed on your system:
 
 ### Step 1: Clone the Repository
 ```bash
-git clone <repository_url>
-cd <repository_name>
+git clone https://github.com/vcixs/Candidate-Assessment
+cd Candidate-Assessment
 ```
 
 ### Step 2: Create a Virtual Environment
